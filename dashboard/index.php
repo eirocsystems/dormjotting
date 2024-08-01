@@ -12,10 +12,7 @@
 
             <div class="row">
                 <div class="col-lg-12">
-                    <h1 class="page-header">
-                        Welcome
-                        <small><?php echo $_SESSION['name']; ?></small>
-                    </h1>
+                    <h1 class="page-header"><small>Hi, <?php echo ucfirst($_SESSION['name']); ?>!</small></h1>
                     <?php if($_SESSION['role'] == 'admin') {
 ?>
                     <h3 class="page-header">

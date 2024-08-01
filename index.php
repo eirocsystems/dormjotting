@@ -55,7 +55,7 @@
 	    	<li>
 	    		<a href="#"><img src="images/slider/slide4.jpg" alt="" title=""/></a>
 	    		<div class="flex-caption">
-                     <div class="caption_title_line"><h2>Login For Both Teacher and Student</h2><p>Both teacher and student can login and upload notes </p></div>
+                     <div class="caption_title_line"><h2>Login For Both Lecturer and Student</h2><p>Both Lecturer and student can login and upload notes </p></div>
                 </div>
 	    	</li>
 	    </ul>
