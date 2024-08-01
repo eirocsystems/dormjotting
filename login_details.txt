@@ -1,0 +1,11 @@
+Login details for DormJotting:
+
+
+Admin Login ---->
+username: root
+password: adminroot
+
+
+User Login ----->
+username:  user
+password:  userpass
